@@ -865,9 +865,8 @@ app.get("/viewData", function (req, res) {
       min_size: "0.01000000"
     },
   ];
-    res.render("viewData", {
+    res.render('viewData', {
         data: currencyData,
-        layout: true,
     });
 });
 
