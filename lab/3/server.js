@@ -5,6 +5,8 @@ const exphbs = require('express-handlebars');
 
 var HTTP_PORT = process.env.PORT || 8080;
 
+app.use(express.static("public"));
+
 // call this function after the http server starts listening for requests
 function onHttpStart() {
     console.log("Express http server listening on: " + HTTP_PORT);
@@ -17,7 +19,8 @@ app.engine('.hbs', exphbs.engine({
 
 app.set('view engine', '.hbs');
 
-app.get("/viewData", function (req, res) {
+
+app.get("/", function (req, res) {
     var currencyData = [
     {
       id: "AED",
