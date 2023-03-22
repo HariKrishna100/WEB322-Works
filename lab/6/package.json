@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "Harikrishna Paresh Patel",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "client-sessions": "^0.8.0",
+    "express-handlebars": "^7.0.2"
+  }
 }

@@ -29,7 +29,7 @@ function onHttpStart() {
   console.log("Express http server listening on: " + HTTP_PORT);
 }
 
-// A simple user object, hardcoded for this example
+// A simple user object, hardcosampleded for this example
 const user = {
   username: "sampleuser",
   password: "samplepassword",
