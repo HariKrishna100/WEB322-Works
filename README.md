@@ -5,10 +5,10 @@ This repository contains all the WEB322 (Web Programming Tools and Frameworks) a
 Assignments
 - A1 : 100 / 100 <br />
 - A2 : 100 / 100 <br />
-- A3 :  <br />
-- A4 :  <br />
-- A5 :  <br />
-- A6 :  <br />
+- A3 : 100 / 100 <br />
+- A4 : 100 / 100 <br />
+- A5 : 100 / 100 <br />
+- A6 : 100 / 100 <br />
 
 Labs
 - L1 : 100 / 100 <br />
@@ -16,6 +16,6 @@ Labs
 - L3 : 100 / 100 <br />
 - L4 : 100 / 100 <br />
 - L5 : 100 / 100 <br />
-- L6 :  <br />
+- L6 : 100 / 100 <br />
 # Disclaimer
 Please don't just copy the code mindlessly without trying to solve the problems yourself, it's totally pointless if you actually wanna learn how to write software and a blatant violation of the [Academic Integrity](https://www.senecacollege.ca/about/policies/academic-integrity-policy.html) policy of the course.
